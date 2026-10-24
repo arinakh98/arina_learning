@@ -8,4 +8,3 @@ else:
         reversed_num = reversed_num * 10 + n % 10
         n //= 10
     print(original == reversed_num)
- 
