@@ -1,4 +1,4 @@
-# cd создала коробочку с именем vector1_str
+# создала коробочку с именем vector1_str
 # и положила туда разрезанный на куски текст (список)
 vector1_str = input().split()
 vector2_str = input().split()
