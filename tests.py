@@ -13,4 +13,4 @@ while loop < 10:
     loop = loop + 1
     if random.randint(1, 5) == 4:
         break
-        
+# ДОБАВИМ КОММЕНТАРИЙ         
